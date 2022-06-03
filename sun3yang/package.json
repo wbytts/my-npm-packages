@@ -1,0 +1,12 @@
+{
+  "name": "sun3yang",
+  "version": "1.0.0",
+  "description": "给李晶阳写的一些工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wbytts",
+  "license": "ISC"
+}

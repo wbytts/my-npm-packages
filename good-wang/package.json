@@ -1,0 +1,30 @@
+{
+  "name": "good-wang",
+  "version": "1.0.4",
+  "description": "NICE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wbytts",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "dayjs": "^1.11.2",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "fs-extra": "^10.1.0",
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "mime": "^3.0.0",
+    "moment": "^2.29.3",
+    "nanoid": "^3.3.4",
+    "node-fetch": "^3.2.5",
+    "ramda": "^0.28.0",
+    "shortid": "^2.2.16",
+    "timer.js": "^1.0.4"
+  }
+}
